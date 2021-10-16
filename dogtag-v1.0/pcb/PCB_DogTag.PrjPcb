@@ -74,61 +74,73 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YWKLHRCW
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for PCB_DogTag\Design Rule Check - Layout.html
+[Document3]
+DocumentPath=Musa_Schematic.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=HMNWTCIQ
 
-[GeneratedDocument2]
-DocumentPath=Project Outputs for PCB_DogTag\Layout.EXTREP
+[Document4]
+DocumentPath=Musa_pcbdogtag.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=RYIJIGAB
 
-[GeneratedDocument3]
-DocumentPath=Project Outputs for PCB_DogTag\Layout.GBL
+[Document5]
+DocumentPath=Schlib1.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=PPKKMMTT
 
-[GeneratedDocument4]
-DocumentPath=Project Outputs for PCB_DogTag\Layout.GBO
+[Document6]
+DocumentPath=PcbLib1.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
 DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for PCB_DogTag\Layout.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for PCB_DogTag\Layout.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for PCB_DogTag\Layout.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for PCB_DogTag\Layout.GM13
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for PCB_DogTag\Layout.GM15
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for PCB_DogTag\Layout.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for PCB_DogTag\Layout.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for PCB_DogTag\Layout.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for PCB_DogTag\Layout.REP
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for PCB_DogTag\Layout.RUL
-DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=CRTMIJLJ
 
 [Configuration1]
 Name=Sources
@@ -249,7 +261,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Brother MFC-9340CDW
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -1058,6 +1070,24 @@ SelectedOnly=0
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+ComponentLibIdentifierKind0=Library Name And Type
+ComponentLibraryIdentifier0=AltiumLibraries.IntLib
+ComponentDesignItemID0=LED RED SMD
+ComponentSymbolReference0=LED RED SMD
+ComponentUpdate0=1
+ComponentIsDeviceSheet0=0
+ComponentLibIdentifierKind1=Library Name And Type
+ComponentLibraryIdentifier1=AltiumLibraries.IntLib
+ComponentDesignItemID1=RES 240.0 1/8W
+ComponentSymbolReference1=RES 240.0 1/8W
+ComponentUpdate1=1
+ComponentIsDeviceSheet1=0
+ComponentLibIdentifierKind2=Library Name And Type
+ComponentLibraryIdentifier2=AltiumLibraries.IntLib
+ComponentDesignItemID2=USB Micro B Receptacle
+ComponentSymbolReference2=USB Micro B Receptacle
+ComponentUpdate2=1
+ComponentIsDeviceSheet2=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1071,6 +1101,63 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
+ParameterName0=Color
+ParameterUpdate0=1
+ParameterName1=Comment
+ParameterUpdate1=1
+ParameterName2=Component Kind
+ParameterUpdate2=1
+ParameterName3=ComponentLink1Description
+ParameterUpdate3=1
+ParameterName4=ComponentLink1URL
+ParameterUpdate4=1
+ParameterName5=ComponentLink2Description
+ParameterUpdate5=1
+ParameterName6=ComponentLink2URL
+ParameterUpdate6=1
+ParameterName7=Current - Test
+ParameterUpdate7=1
+ParameterName8=Description
+ParameterUpdate8=1
+ParameterName9=Digikey
+ParameterUpdate9=1
+ParameterName10=Digikey Link
+ParameterUpdate10=1
+ParameterName11=Lens Color
+ParameterUpdate11=1
+ParameterName12=Lens Transparency
+ParameterUpdate12=1
+ParameterName13=Library Reference
+ParameterUpdate13=1
+ParameterName14=MF
+ParameterUpdate14=1
+ParameterName15=MP
+ParameterUpdate15=1
+ParameterName16=Package
+ParameterUpdate16=1
+ParameterName17=Power (Watts)
+ParameterUpdate17=1
+ParameterName18=Price
+ParameterUpdate18=1
+ParameterName19=Rating
+ParameterUpdate19=1
+ParameterName20=Tolerance
+ParameterUpdate20=1
+ParameterName21=Value
+ParameterUpdate21=1
+ParameterName22=Voltage - Forward (Vf) (Typ)
+ParameterUpdate22=1
+ModelTypeGroup0=PCBLIB
+ModelTypeUpdate0=1
+ModelType0=PCBLIB
+ModelName0=0805
+ModelUpdate0=1
+ModelType1=PCBLIB
+ModelName1=3.2X1.6X1.1
+ModelUpdate1=1
+ModelType2=PCBLIB
+ModelName2=USB Micro B Receptacle
+ModelUpdate2=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
